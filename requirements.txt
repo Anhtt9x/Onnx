@@ -3,3 +3,4 @@ onnx
 skl2onnx
 joblib
 onnxruntime
+opencv-python
